@@ -4,7 +4,13 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
+
+
+
 # AntiFake - Détection Automatique de Fake News par Machine Learning
+
+
+
 ## 🛠️ Compétences Démontrées (Skills)
 * **Traitement du Langage Naturel (NLP)** : Nettoyage et normalisation de texte (expressions régulières), extraction de caractéristiques fréquentielles via [TF-IDF](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html).
 * **Machine Learning** : Classification binaire supervisée, entraînement et évaluation de [Régression Logistique](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), analyse de rapports de performance (Précision, Rappel, F1-Score, Exactitude).
